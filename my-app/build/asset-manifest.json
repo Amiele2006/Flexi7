@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.43ce0a34.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/kelly-sikkema-PqqQDpS6H6A-unsplash.jpg": "/static/media/kelly-sikkema-PqqQDpS6H6A-unsplash.2251f99f0b86f481875c.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.43ce0a34.js.map": "/static/js/main.43ce0a34.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.43ce0a34.js"
+  ]
+}
